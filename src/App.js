@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
-import Quotes from './quotes.js';
 import Quote from './Quote.js';
 
 
